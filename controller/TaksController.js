@@ -1,5 +1,8 @@
 const Task = require("../models/Task");
 
+const message= "";
+let type = "";
+
 const getAllTasks = async (req, res) => {
   try {
     const tasksList = await Task.find();
