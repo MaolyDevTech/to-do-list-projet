@@ -12,7 +12,7 @@ Este é um projeto de lista de tarefas simples construído usando React, Node.js
 
 Siga estas etapas para configurar e executar o projeto em seu ambiente local:
 
-1. Clone este repositório: git clone [https://github.com/seu-usuario/todo-list-app.gi](https://github.com/MaolyDevTech/to-do-list-projet.git)t
+1. Clone este repositório: git clone [https://github.com/seu-usuario/todo-list-app.gi](https://github.com/MaolyDevTech/to-do-list-projet.git).
 2. Navegue para a pasta do cliente: cd client e execute npm install para instalar as dependências do React.
 3. Navegue para a pasta do servidor: cd server e execute npm install para instalar as dependências do Node.js.
 4. Configure o banco de dados MongoDB e atualize a URL de conexão no arquivo server/config.js.
